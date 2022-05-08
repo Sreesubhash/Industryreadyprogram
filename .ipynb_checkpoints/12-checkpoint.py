@@ -7,5 +7,4 @@ def convert (seconds) :
 
     return "%d : %02d : %02d" % (hour, minutes, seconds)
 
-seconds = 15432
-print(convert (seconds))
+    print(convert (15432))
